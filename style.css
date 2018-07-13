@@ -1,0 +1,50 @@
+html,body
+{
+    width: 100%; height: 100%; margin: 0; padding: 0;
+    overflow: hidden; background: #1A1A1A;
+    background-image: url(background.png);
+}
+
+#menu, #q, #rss
+{
+    font-family: "Segoe UI", "Liberation Sans", "Dejavu Sans", "Droid Sans", monospace; font-size: 8pt;
+    background: #121212; color: #aaaaaa;
+}
+
+#menu a, #menu a:link
+{
+    color: #aaaaaa; text-decoration: none; cursor: pointer;
+}
+
+#menu a:hover, #menu a:active
+{
+    color: #cccccc;
+}
+
+#menu
+{
+    position: fixed; top: 0; left: 0; z-index: 11;
+    width: 100%; cursor: default;
+    height: 0px; line-height: 32px;                                                                                                    /* Menu height */
+}
+
+#menu ul ul
+{
+    width: 100px;
+    position: absolute;
+    top: 100%;
+    display: none;
+    background: #3b3b3b;
+}
+
+.type
+{
+    padding-left: 30px;
+}
+
+
+.link
+{
+    display: inline-block;
+    padding-left: 30px;
+}
