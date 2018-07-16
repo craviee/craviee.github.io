@@ -36,13 +36,23 @@ app.controller('scriptController', function($scope)
             name: "Social",
             items:
             [
+                ["Habitica", "https://habitica.com/"],
                 ["Gmail", "https://mail.google.com/"],
                 ["Skype", "https://web.skype.com/"],
                 ["Messenger", "https://www.messenger.com/"],
                 ["LinkedIn", "https://www.linkedin.com/feed/"],
                 ["RadioAnão", "https://www.dubtrack.fm/join/radioanao"]
             ]
-        }
+        },
+
+        {
+            name: "Stuff",
+            items:
+            [
+                ["Library Genesis", "http://gen.lib.rus.ec/"]
+            ]
+        },
+
     ];
     $scope.links = links;
 });
