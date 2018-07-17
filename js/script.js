@@ -10,7 +10,8 @@ app.controller('scriptController', function($scope)
             items:
             [
                 ["E-mail", "https://outlook.office.com/"],
-                ["RFD", "http://sistemas.ihm.com.br/"]
+                ["RFD", "http://sistemas.ihm.com.br/"],
+                ["Slack", "https://automation-ihm.slack.com/"]
             ]
         },
 
