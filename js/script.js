@@ -50,7 +50,8 @@ app.controller('scriptController', function($scope)
             name: "Stuff",
             items:
             [
-                ["Library Genesis", "http://gen.lib.rus.ec/"]
+                ["Library Genesis", "http://gen.lib.rus.ec/"],
+                ["Pomodoro", "https://tomato-timer.com/"]
             ]
         },
 
