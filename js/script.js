@@ -51,7 +51,8 @@ app.controller('scriptController', function($scope)
             items:
             [
                 ["Library Genesis", "http://gen.lib.rus.ec/"],
-                ["Pomodoro", "https://tomato-timer.com/"]
+                ["Pomodoro", "https://tomato-timer.com/"],
+                ["Linux Quizzes", "https://testbanks.wiley.com/WPDACE/Dashboard"]
             ]
         },
 
