@@ -20,7 +20,6 @@ app.controller('scriptController', function($scope)
             items:
             [
                 ["Arch Linux", "http://archlinux.org"],
-                ["G1", "http://g1.globo.com/index.html"],
                 ["G1 Mundo", "http://g1.globo.com/mundo/index.html"],
                 ["G1 Tecnologia", "http://g1.globo.com/tecnologia/index.html"],
                 ["Olhar Digital", "http://olhardigital.uol.com.br/home"],
@@ -39,6 +38,7 @@ app.controller('scriptController', function($scope)
             [
                 ["Habitica", "https://habitica.com/"],
                 ["Gmail", "https://mail.google.com/"],
+                ["Prontonmail", "https://mail.protonmail.com/login"]
                 ["Skype", "https://web.skype.com/"],
                 ["Messenger", "https://www.messenger.com/"],
                 ["LinkedIn", "https://www.linkedin.com/feed/"],
@@ -52,7 +52,6 @@ app.controller('scriptController', function($scope)
             [
                 ["Library Genesis", "http://gen.lib.rus.ec/"],
                 ["Pomodoro", "https://tomato-timer.com/"],
-                ["Linux Quizzes", "https://testbanks.wiley.com/WPDACE/Dashboard"]
             ]
         },
 
