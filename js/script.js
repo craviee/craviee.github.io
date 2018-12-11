@@ -38,7 +38,7 @@ app.controller('scriptController', function($scope)
             [
                 ["Habitica", "https://habitica.com/"],
                 ["Gmail", "https://mail.google.com/"],
-                ["Prontonmail", "https://mail.protonmail.com/login"]
+                ["Prontonmail", "https://mail.protonmail.com/login"],
                 ["Skype", "https://web.skype.com/"],
                 ["Messenger", "https://www.messenger.com/"],
                 ["LinkedIn", "https://www.linkedin.com/feed/"],
