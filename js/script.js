@@ -52,7 +52,8 @@ app.controller('scriptController', function($scope)
             [
                 ["Library Genesis", "http://gen.lib.rus.ec/"],
                 ["Pomodoro", "https://tomato-timer.com/"],
-                ["Draw.io", "https://www.draw.io/"]
+                ["DrawIO", "https://www.draw.io/"],
+                ["IsThereAnyDeal?","https://isthereanydeal.com/"]
             ]
         },
 
