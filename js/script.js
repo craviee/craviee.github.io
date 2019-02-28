@@ -25,7 +25,6 @@ app.controller('scriptController', function($scope)
                 ["Olhar Digital", "http://olhardigital.uol.com.br/home"],
                 ["TechTudo", "http://www.techtudo.com.br/"],
                 ["Inovacao Tecnologica", "http://www.inovacaotecnologica.com.br/index.php"],
-                ["Info", "http://exame.abril.com.br/tecnologia/"],
                 ["Clube do Hardware", "http://www.clubedohardware.com.br/"],
                 ["Guia do PC", "http://www.guiadopc.com.br/"],
                 ["DistroWatch", "http://distrowatch.com/"]
