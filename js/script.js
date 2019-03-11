@@ -14,6 +14,16 @@ app.controller('scriptController', function($scope)
                 ["Slack", "https://automation-ihm.slack.com/"]
             ]
         },
+        
+        {
+            name: "PUT",
+            items:
+            [
+                ["E-mail", "https://poczta.student.put.poznan.pl/"],
+                ["eLogin", "https://estudent2.put.poznan.pl"],
+                ["Moodle", "https://moodle.put.poznan.pl/"]
+            ]
+        },
 
         {
             name: "News",
