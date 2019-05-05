@@ -29,15 +29,7 @@ app.controller('scriptController', function($scope)
             name: "News",
             items:
             [
-                ["Arch Linux", "http://archlinux.org"],
-                ["G1 Mundo", "http://g1.globo.com/mundo/index.html"],
-                ["G1 Tecnologia", "http://g1.globo.com/tecnologia/index.html"],
-                ["Olhar Digital", "http://olhardigital.uol.com.br/home"],
-                ["TechTudo", "http://www.techtudo.com.br/"],
-                ["Inovacao Tecnologica", "http://www.inovacaotecnologica.com.br/index.php"],
-                ["Clube do Hardware", "http://www.clubedohardware.com.br/"],
-                ["Guia do PC", "http://www.guiadopc.com.br/"],
-                ["DistroWatch", "http://distrowatch.com/"]
+                ["Feedly", "https://feedly.com"]
             ]
         },
 
