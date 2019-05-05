@@ -51,6 +51,7 @@ app.controller('scriptController', function($scope)
             name: "Stuff",
             items:
             [
+                ["Saco Cheio Podcast", "http://www.arthurpetry.com/podcastgen/"],
                 ["Library Genesis", "http://gen.lib.rus.ec/"],
                 ["Pomodoro", "https://tomato-timer.com/"],
                 ["DrawIO", "https://www.draw.io/"],
