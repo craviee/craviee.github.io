@@ -6,12 +6,11 @@ app.controller('scriptController', function($scope)
     let links =
     [
         {
-            name: "IHM",
+            name: "AM",
             items:
             [
-                ["E-mail", "https://outlook.office.com/"],
-                ["RFD", "http://sistemas.ihm.com.br/"],
-                ["Slack", "https://automation-ihm.slack.com/"]
+                ["Slack", "http://antmicro.slack.com"],
+                ["Redmine", "https://dev.antmicro.com/"]
             ]
         },
         
@@ -26,23 +25,13 @@ app.controller('scriptController', function($scope)
         },
 
         {
-            name: "News",
-            items:
-            [
-                ["Feedly", "https://feedly.com"]
-            ]
-        },
-
-        {
             name: "Social",
             items:
             [
-                ["Habitica", "https://habitica.com/"],
-                ["Gmail", "https://mail.google.com/"],
                 ["Prontonmail", "https://mail.protonmail.com/login"],
-                ["Skype", "https://web.skype.com/"],
-                ["Messenger", "https://www.messenger.com/"],
-                ["LinkedIn", "https://www.linkedin.com/feed/"],
+                ["Gmail", "https://mail.google.com/"],
+                ["LinkedIn", "https://www.linkedin.com/in/craviee/"],
+                ["Github", "https://github.com/"],
                 ["RadioAnão", "https://www.dubtrack.fm/join/radioanao"]
             ]
         },
@@ -51,11 +40,11 @@ app.controller('scriptController', function($scope)
             name: "Stuff",
             items:
             [
-                ["Saco Cheio Podcast", "http://www.arthurpetry.com/podcastgen/"],
+                ["Saco Cheio TV", "https://www.sacocheio.tv/login.php"],
                 ["Library Genesis", "http://gen.lib.rus.ec/"],
                 ["Pomodoro", "https://tomato-timer.com/"],
                 ["DrawIO", "https://www.draw.io/"],
-                ["IsThereAnyDeal?","https://isthereanydeal.com/"]
+                ["YTMP3","https://ytmp3.cc/"]        
             ]
         },
 
