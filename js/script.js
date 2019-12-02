@@ -6,15 +6,6 @@ app.controller('scriptController', function($scope)
     let links =
     [
         {
-            name: "AM",
-            items:
-            [
-                ["Slack", "http://antmicro.slack.com"],
-                ["Redmine", "https://dev.antmicro.com/"]
-            ]
-        },
-        
-        {
             name: "PUT",
             items:
             [
