@@ -22,8 +22,7 @@ app.controller('scriptController', function($scope)
                 ["Prontonmail", "https://mail.protonmail.com/login"],
                 ["Gmail", "https://mail.google.com/"],
                 ["LinkedIn", "https://www.linkedin.com/in/craviee/"],
-                ["Github", "https://github.com/"],
-                ["RadioAnão", "https://www.dubtrack.fm/join/radioanao"]
+                ["Github", "https://github.com/"]
             ]
         },
 
@@ -35,7 +34,8 @@ app.controller('scriptController', function($scope)
                 ["Library Genesis", "http://gen.lib.rus.ec/"],
                 ["Pomodoro", "https://tomato-timer.com/"],
                 ["DrawIO", "https://www.draw.io/"],
-                ["YTMP3","https://ytmp3.cc/"]        
+                ["YTMP3","https://ytmp3.cc/"],
+                ["Warcraft 3 Store","https://us.shop.battle.net/pt-br/family/warcraft-iii"]
             ]
         },
 
