@@ -35,7 +35,7 @@ app.controller('scriptController', function($scope)
                 ["Pomodoro", "https://tomato-timer.com/"],
                 ["DrawIO", "https://www.draw.io/"],
                 ["YTMP3","https://ytmp3.cc/"],
-                ["Warcraft 3 Store","https://us.shop.battle.net/pt-br/family/warcraft-iii"]
+                ["City Pop Stream","https://www.youtube.com/watch?v=DFMKpwNizZk"]
             ]
         },
 
