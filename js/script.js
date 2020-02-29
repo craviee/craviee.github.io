@@ -35,7 +35,8 @@ app.controller('scriptController', function($scope)
                 ["Pomodoro", "https://tomato-timer.com/"],
                 ["DrawIO", "https://www.draw.io/"],
                 ["YTMP3","https://ytmp3.cc/"],
-                ["City Pop Stream","https://www.youtube.com/watch?v=DFMKpwNizZk"]
+                ["City Pop Stream","https://www.youtube.com/watch?v=DFMKpwNizZk"],
+                ["Flutter Course","https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/"]
             ]
         },
 
