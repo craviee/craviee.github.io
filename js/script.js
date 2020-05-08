@@ -20,7 +20,6 @@ app.controller('scriptController', function($scope)
             items:
             [
                 ["Prontonmail", "https://mail.protonmail.com/login"],
-                ["Gmail", "https://mail.google.com/"],
                 ["LinkedIn", "https://www.linkedin.com/in/craviee/"],
                 ["Github", "https://github.com/"]
             ]
@@ -35,7 +34,6 @@ app.controller('scriptController', function($scope)
                 ["Pomodoro", "https://tomato-timer.com/"],
                 ["DrawIO", "https://www.draw.io/"],
                 ["YTMP3","https://ytmp3.cc/"],
-                ["City Pop Stream","https://www.youtube.com/watch?v=DFMKpwNizZk"],
                 ["Rádio JovemPan","https://jovempan.com.br/?listen=jpfm"]
             ]
         },
