@@ -34,7 +34,7 @@ app.controller('scriptController', function($scope)
                 ["Pomodoro", "https://tomato-timer.com/"],
                 ["DrawIO", "https://www.draw.io/"],
                 ["YTMP3","https://ytmp3.cc/"],
-                ["Rádio JovemPan","https://jovempan.com.br/?listen=jpfm"],
+                ["Radio Garden","http://radio.garden/visit/belo-horizonte-mg/"],
                 ["Free Games", "https://isthereanydeal.com/specials/#/filter:&giveaway,&active"]
             ]
         },
