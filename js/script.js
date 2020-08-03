@@ -6,6 +6,15 @@ app.controller('scriptController', function($scope)
     let links =
     [
         {
+            name: "IHM",
+            items:
+            [
+                ["E-mail", "http://portal.office.com"],
+                ["IHM Systems", "http://sistemas.ihm.com.br"],
+                ["SGI", "http://sgi.ihm.com.br"]
+            ]
+        },
+        {
             name: "PUT",
             items:
             [
