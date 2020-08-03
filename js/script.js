@@ -20,7 +20,8 @@ app.controller('scriptController', function($scope)
             [
                 ["E-mail", "https://poczta.student.put.poznan.pl/"],
                 ["eLogin", "https://estudent2.put.poznan.pl"],
-                ["Moodle", "https://moodle.put.poznan.pl/"]
+                ["Moodle", "https://moodle.put.poznan.pl/"],
+                ["Azure DevOps","https://dev.azure.com/"]
             ]
         },
 
