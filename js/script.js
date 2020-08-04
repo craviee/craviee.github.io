@@ -11,7 +11,8 @@ app.controller('scriptController', function($scope)
             [
                 ["E-mail", "http://portal.office.com"],
                 ["IHM Systems", "http://sistemas.ihm.com.br"],
-                ["SGI", "http://sgi.ihm.com.br"]
+                ["SGI", "http://sgi.ihm.com.br"],
+                ["Azure DevOps","https://dev.azure.com/"]
             ]
         },
         {
@@ -20,8 +21,7 @@ app.controller('scriptController', function($scope)
             [
                 ["E-mail", "https://poczta.student.put.poznan.pl/"],
                 ["eLogin", "https://estudent2.put.poznan.pl"],
-                ["Moodle", "https://moodle.put.poznan.pl/"],
-                ["Azure DevOps","https://dev.azure.com/"]
+                ["Moodle", "https://moodle.put.poznan.pl/"]
             ]
         },
 
