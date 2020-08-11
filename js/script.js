@@ -11,8 +11,9 @@ app.controller('scriptController', function($scope)
             [
                 ["E-mail", "http://portal.office.com"],
                 ["IHM Systems", "http://sistemas.ihm.com.br"],
-                ["SGI", "http://sgi.ihm.com.br"],
-                ["Azure DevOps","https://dev.azure.com/"]
+                ["GlassFrog","https://app.glassfrog.com/"],
+                ["Azure DevOps","https://dev.azure.com/"],
+                ["SGI", "http://sgi.ihm.com.br"]
             ]
         },
         {
