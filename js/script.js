@@ -9,7 +9,7 @@ app.controller('scriptController', function($scope)
             name: "IHM",
             items:
             [
-                ["E-mail", "http://portal.office.com"],
+                ["E-mail", "https://outlook.office.com/mail/inbox"],
                 ["IHM Systems", "http://sistemas.ihm.com.br"],
                 ["GlassFrog","https://app.glassfrog.com/"],
                 ["Azure DevOps","https://dev.azure.com/"],
